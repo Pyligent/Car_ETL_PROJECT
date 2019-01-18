@@ -1,501 +1,501 @@
-Year,model,Configuration,Transmission,mpg,Displacement
-2019,Acura,ILX,Automatic,35.0,2000
-2019,Acura,ILX,Automatic,35.0,2000
-2019,Acura,ILX,Manual,31.0,2400
-2019,Acura,ILX,Automatic,35.0,2000
-2019,Acura,MDX,Automatic,28.0,3500
-2019,Acura,MDX,Automatic,28.0,3500
-2019,Acura,MDX,Automatic,27.0,3500
-2019,Acura,MDX,Automatic,27.0,3500
-2019,Acura,MDX,Automatic,27.0,3500
-2019,Acura,MDX,Automatic,27.0,3500
-2019,Acura,MDX,Automatic,28.0,3500
-2019,Acura,MDX,Automatic,28.0,3500
-2019,Acura,NSX,Automatic,,3500
-2019,Acura,RDX,Automatic,28.0,3500
-2019,Acura,RDX,Automatic,27.0,3500
-2019,Acura,RDX,Automatic,28.0,3500
-2019,Acura,RDX,Automatic,27.0,3500
-2019,Acura,RLX,Automatic,31.0,3500
-2019,Acura,RLX,Automatic,31.0,3500
-2019,Acura,RLX,Automatic,31.0,3500
-2019,Acura,RLX,Automatic,31.0,3500
-2019,Acura,RLX,Automatic,31.0,3500
-2019,Acura,TLX,Automated Manual,35.0,2400
-2019,Acura,TLX,Automatic,34.0,3500
-2019,Acura,TLX,Automatic,34.0,3500
-2019,Acura,TLX,Automatic,31.0,3500
-2019,Acura,TLX,Automatic,31.0,3500
-2019,Acura,TLX,Automated Manual,35.0,2400
-2019,Acura,TLX,Automatic,34.0,3500
-2019,Audi,A3,Automated Manual,35.0,1800
-2019,Audi,A3,Automated Manual,33.0,1800
-2019,Audi,A3,Automated Manual,35.0,1800
-2019,Audi,A3,Automated Manual,33.0,1800
-2019,Audi,A3,Automated Manual,35.0,1800
-2019,Audi,A3,Automated Manual,33.0,1800
-2019,Audi,A3,Automated Manual,43.0,2000
-2019,Audi,A3,Automated Manual,43.0,2000
-2019,Audi,A3,Automated Manual,43.0,2000
-2019,Audi,A3,Automated Manual,32.0,2000
-2019,Audi,A3,Automated Manual,33.0,2000
-2019,Audi,A3,Automated Manual,32.0,2000
-2019,Audi,A3,Automated Manual,33.0,2000
-2019,Audi,A3,Automated Manual,32.0,2000
-2019,Audi,A3,Automated Manual,33.0,2000
-2019,Audi,A3 e-tron,Automated Manual,,1400
-2019,Audi,A4,Automatic,32.0,2000
-2019,Audi,A4,Automatic,32.0,2000
-2019,Audi,A4,Manual,32.0,2000
-2019,Audi,A4,Automatic,31.0,2000
-2019,Audi,A4,Manual,32.0,2000
-2019,Audi,A4,Automatic,31.0,2000
-2019,Audi,A4,Automatic,32.0,2000
-2019,Audi,A4,Manual,32.0,2000
-2019,Audi,A4,Automatic,31.0,2000
-2019,Audi,A5,Automatic,28.0,2000
-2019,Audi,A5,Manual,32.0,2000
-2019,Audi,A5,Automatic,31.0,2000
-2019,Audi,A5,Automatic,28.0,2000
-2019,Audi,A5,Manual,32.0,2000
-2019,Audi,A5,Automatic,31.0,2000
-2019,Audi,A5,Automatic,28.0,2000
-2019,Audi,A5,Manual,32.0,2000
-2019,Audi,A5,Automatic,31.0,2000
-2019,Audi,A6,Automatic,33.0,2000
-2019,Audi,A6,Automatic,33.0,2000
-2019,Audi,A6,Automatic,29.0,2000
-2019,Audi,A6,Automatic,29.0,2000
-2019,Audi,A6,Automatic,27.0,3000
-2019,Audi,A6,Automatic,27.0,3000
-2019,Audi,A6,Automatic,38.0,3000
-2019,Audi,A6,Automatic,38.0,3000
-2019,Audi,A7,Automatic,28.0,3000
-2019,Audi,A7,Automatic,28.0,3000
-2019,Audi,A7,Automatic,38.0,3000
-2019,Audi,A7,Automatic,38.0,3000
-2019,Audi,A8,Automatic,29.0,3000
-2019,Audi,A8,Automatic,30.0,4000
-2019,Audi,A8,Automatic,29.0,3000
-2019,Audi,A8,Automatic,29.0,4000
-2019,Audi,A8,Automatic,36.0,3000
-2019,Audi,A8,Automatic,22.0,6300
-2019,Audi,allroad,Automatic,28.0,2000
-2019,Audi,allroad,Automatic,28.0,2000
-2019,Audi,allroad,Automatic,28.0,2000
-2019,Audi,Q3,Automatic,29.0,2000
-2019,Audi,Q3,Automatic,28.0,2000
-2019,Audi,Q3,Automatic,29.0,2000
-2019,Audi,Q3,Automatic,28.0,2000
-2019,Audi,Q5,Automatic,28.0,2000
-2019,Audi,Q5,Automatic,28.0,2000
-2019,Audi,Q5,Automatic,30.0,2000
-2019,Audi,Q5,Automatic,26.0,3000
-2019,Audi,Q5,Automatic,26.0,3000
-2019,Audi,Q5,Automatic,31.0,3000
-2019,Audi,Q5,Automatic,31.0,3000
-2019,Audi,Q7,Automatic,22.0,3000
-2019,Audi,Q7,Automatic,22.0,3000
-2019,Audi,Q7,Automatic,22.0,3000
-2019,Audi,Q7,Automatic,28.0,3000
-2019,Audi,Q7,Automatic,28.0,3000
-2019,Audi,Q7,Automatic,28.0,3000
-2019,Audi,R8,Manual,19.0,5200
-2019,Audi,R8,Automated Manual,22.0,5200
-2019,Audi,R8,Automated Manual,,5200
-2019,Audi,R8,Manual,19.0,5200
-2019,Audi,R8,Automated Manual,22.0,5200
-2019,Audi,R8,Manual,19.0,5200
-2019,Audi,R8,Automated Manual,22.0,5200
-2019,Audi,R8,Manual,19.0,5200
-2019,Audi,R8,Automated Manual,22.0,5200
-2019,Audi,R8,Manual,20.0,4200
-2019,Audi,R8,Automated Manual,23.0,4200
-2019,Audi,R8,Manual,20.0,4200
-2019,Audi,R8,Automated Manual,23.0,4200
-2019,Audi,RS 5,Automated Manual,22.0,4200
-2019,Audi,RS 5,Automated Manual,23.0,4200
-2019,Audi,RS 7,Automatic,27.0,4000
-2019,Audi,S3,Automated Manual,,2000
-2019,Audi,S3,Automated Manual,,2000
-2019,Audi,S4,Manual,26.0,3000
-2019,Audi,S4,Automated Manual,28.0,3000
-2019,Audi,S4,Manual,26.0,3000
-2019,Audi,S4,Automated Manual,28.0,3000
-2019,Audi,S5,Automated Manual,26.0,3000
-2019,Audi,S5,Manual,26.0,3000
-2019,Audi,S5,Automated Manual,28.0,3000
-2019,Audi,S5,Automated Manual,26.0,3000
-2019,Audi,S5,Manual,26.0,3000
-2019,Audi,S5,Automated Manual,28.0,3000
-2019,Audi,S6,Automated Manual,27.0,4000
-2019,Audi,S7,Automated Manual,27.0,4000
-2019,Audi,S8,Automatic,27.0,4000
-2019,Audi,SQ5,Automatic,24.0,3000
-2019,Audi,SQ5,Automatic,24.0,3000
-2019,Audi,TT,Automated Manual,31.0,2000
-2019,Audi,TT,Automated Manual,31.0,2000
-2019,Audi,TTS,Automated Manual,31.0,2000
-2019,Audi,TTS,Automated Manual,31.0,2000
-2019,Bentley,Continental GT,Automatic,20.0,6000
-2019,Bentley,Continental GT,Automatic,21.0,6000
-2019,Bentley,Continental GT,Automatic,20.0,6000
-2019,Bentley,Continental GT,Automatic,21.0,6000
-2019,Bentley,Continental GT,Automatic,24.0,4000
-2019,Bentley,Continental GT,Automatic,25.0,4000
-2019,Bentley,Continental GT,Automatic,24.0,4000
-2019,Bentley,Continental GT,Automatic,25.0,4000
-2019,Bentley,Flying Spur,Automatic,24.0,4000
-2019,Bentley,Flying Spur,Automatic,20.0,6000
-2019,Bentley,Mulsanne,Automatic,18.0,6800
-2019,BMW,2 Series,Automatic,34.0,2000
-2019,BMW,2 Series,Automatic,36.0,2000
-2019,BMW,2 Series,Automatic,36.0,2000
-2019,BMW,2 Series,Automatic,33.0,2000
-2019,BMW,2 Series,Automatic,35.0,2000
-2019,BMW,2 Series,Automatic,35.0,2000
-2019,BMW,2 Series,Automatic,32.0,3000
-2019,BMW,2 Series,Automatic,32.0,3000
-2019,BMW,2 Series,Automatic,30.0,3000
-2019,BMW,3 Series,Automatic,36.0,2000
-2019,BMW,3 Series,Automatic,35.0,2000
-2019,BMW,3 Series,Automatic,45.0,2000
-2019,BMW,3 Series,Automatic,43.0,2000
-2019,BMW,3 Series,Automatic,43.0,2000
-2019,BMW,3 Series,Automatic,35.0,2000
-2019,BMW,3 Series,Automatic,35.0,2000
-2019,BMW,3 Series,Automatic,33.0,2000
-2019,BMW,3 Series,Automatic,33.0,2000
-2019,BMW,3 Series,Automatic,33.0,2000
-2019,BMW,3 Series,Automatic,32.0,3000
-2019,BMW,3 Series,Automatic,30.0,3000
-2019,BMW,3 Series,Automatic,33.0,3000
-2019,BMW,3 Series Gran Turismo,Automatic,33.0,2000
-2019,BMW,3 Series Gran Turismo,Automatic,33.0,2000
-2019,BMW,3 Series Gran Turismo,Automatic,30.0,3000
-2019,BMW,4 Series,Automatic,34.0,2000
-2019,BMW,4 Series,Automatic,35.0,2000
-2019,BMW,4 Series,Automatic,34.0,2000
-2019,BMW,4 Series,Automatic,35.0,2000
-2019,BMW,4 Series,Automatic,33.0,2000
-2019,BMW,4 Series,Automatic,33.0,2000
-2019,BMW,4 Series,Automatic,33.0,2000
-2019,BMW,4 Series,Automatic,33.0,2000
-2019,BMW,4 Series,Automatic,31.0,3000
-2019,BMW,4 Series,Automatic,32.0,3000
-2019,BMW,4 Series,Automatic,29.0,3000
-2019,BMW,4 Series,Automatic,30.0,3000
-2019,BMW,4 Series Gran Coupe,Automatic,34.0,2000
-2019,BMW,4 Series Gran Coupe,Automatic,34.0,2000
-2019,BMW,4 Series Gran Coupe,Automatic,33.0,2000
-2019,BMW,4 Series Gran Coupe,Automatic,33.0,2000
-2019,BMW,4 Series Gran Coupe,Automatic,32.0,3000
-2019,BMW,4 Series Gran Coupe,Automatic,31.0,3000
-2019,BMW,5 Series,Automatic,34.0,2000
-2019,BMW,5 Series,Automatic,33.0,2000
-2019,BMW,5 Series,Automatic,38.0,3000
-2019,BMW,5 Series,Automatic,37.0,3000
-2019,BMW,5 Series,Automatic,30.0,3000
-2019,BMW,5 Series,Automatic,29.0,3000
-2019,BMW,5 Series,Automatic,25.0,4400
-2019,BMW,5 Series,Automatic,24.0,4400
-2019,BMW,5 Series Gran Turismo,Automatic,28.0,3000
-2019,BMW,5 Series Gran Turismo,Automatic,26.0,3000
-2019,BMW,5 Series Gran Turismo,Automatic,25.0,4400
-2019,BMW,5 Series Gran Turismo,Automatic,24.0,4400
-2019,BMW,6 Series,Automatic,31.0,3000
-2019,BMW,6 Series,Automatic,32.0,3000
-2019,BMW,6 Series,Automatic,29.0,3000
-2019,BMW,6 Series,Automatic,29.0,3000
-2019,BMW,6 Series,Automatic,25.0,4400
-2019,BMW,6 Series,Automatic,25.0,4400
-2019,BMW,6 Series,Automatic,24.0,4400
-2019,BMW,6 Series,Automatic,25.0,4400
-2019,BMW,6 Series Gran Coupe,Automatic,31.0,3000
-2019,BMW,6 Series Gran Coupe,Automatic,29.0,3000
-2019,BMW,6 Series Gran Coupe,Automatic,25.0,4400
-2019,BMW,6 Series Gran Coupe,Automatic,24.0,4400
-2019,BMW,7 Series,Automatic,29.0,3000
-2019,BMW,7 Series,Automatic,31.0,3000
-2019,BMW,7 Series,Automatic,29.0,3000
-2019,BMW,7 Series,Automatic,28.0,3000
-2019,BMW,7 Series,Automatic,25.0,4400
-2019,BMW,7 Series,Automatic,24.0,4400
-2019,BMW,7 Series,Automatic,25.0,4400
-2019,BMW,7 Series,Automatic,24.0,4400
-2019,BMW,7 Series,Automatic,20.0,6000
-2019,BMW,ActiveHybrid 5,Automatic,30.0,3000
-2019,BMW,ActiveHybrid 7,Automatic,30.0,3000
-2019,BMW,ALPINA B6 Gran Coupe,Automatic,24.0,4400
-2019,BMW,ALPINA B7,Automatic,25.0,4400
-2019,BMW,ALPINA B7,Automatic,24.0,4400
-2019,BMW,ALPINA B7,Automatic,25.0,4400
-2019,BMW,ALPINA B7,Automatic,24.0,4400
-2019,BMW,M3,Manual,26.0,3000
-2019,BMW,M4,Manual,26.0,3000
-2019,BMW,M4,Manual,26.0,3000
-2019,BMW,M5,Automated Manual,20.0,4400
-2019,BMW,M6,Automated Manual,20.0,4400
-2019,BMW,M6,Automated Manual,20.0,4400
-2019,BMW,M6 Gran Coupe,Automated Manual,20.0,4400
-2019,BMW,X1,Automatic,34.0,2000
-2019,BMW,X1,Automatic,32.0,2000
-2019,BMW,X1,Automatic,27.0,3000
-2019,BMW,X3,Automatic,28.0,2000
-2019,BMW,X3,Automatic,34.0,2000
-2019,BMW,X3,Automatic,28.0,2000
-2019,BMW,X3,Automatic,26.0,3000
-2019,BMW,X4,Automatic,,2000
-2019,BMW,X4,Automatic,,3000
-2019,BMW,X5,Automatic,27.0,3000
-2019,BMW,X5,Automatic,31.0,3000
-2019,BMW,X5,Automatic,27.0,3000
-2019,BMW,X5,Automatic,22.0,4400
-2019,BMW,X6,Automatic,27.0,3000
-2019,BMW,X6,Automatic,27.0,3000
-2019,BMW,X6,Automatic,22.0,4400
-2019,BMW,Z4,Manual,34.0,2000
-2019,BMW,Z4,Automated Manual,24.0,3000
-2019,BMW,Z4,Automated Manual,24.0,3000
-2019,Buick,Enclave,Automatic,24.0,3600
-2019,Buick,Enclave,Automatic,24.0,3600
-2019,Buick,Enclave,Automatic,22.0,3600
-2019,Buick,Enclave,Automatic,24.0,3600
-2019,Buick,Enclave,Automatic,22.0,3600
-2019,Buick,Encore,Automatic,33.0,1400
-2019,Buick,Encore,Automatic,30.0,1400
-2019,Buick,Encore,Automatic,33.0,1400
-2019,Buick,Encore,Automatic,30.0,1400
-2019,Buick,Encore,Automatic,33.0,1400
-2019,Buick,Encore,Automatic,30.0,1400
-2019,Buick,Encore,Automatic,33.0,1400
-2019,Buick,Encore,Automatic,30.0,1400
-2019,Buick,LaCrosse,Automatic,36.0,2400
-2019,Buick,LaCrosse,Automatic,36.0,2400
-2019,Buick,LaCrosse,Automatic,26.0,3600
-2019,Buick,LaCrosse,Automatic,28.0,3600
-2019,Buick,LaCrosse,Automatic,26.0,3600
-2019,Buick,LaCrosse,Automatic,28.0,3600
-2019,Buick,Regal,Automatic,30.0,2000
-2019,Buick,Regal,Automatic,27.0,2000
-2019,Buick,Regal,Automatic,30.0,2000
-2019,Buick,Regal,Automatic,27.0,2000
-2019,Buick,Regal,Automatic,30.0,2000
-2019,Buick,Regal,Automatic,27.0,2000
-2019,Buick,Regal,Automatic,30.0,2000
-2019,Buick,Regal,Automatic,27.0,2000
-2019,Buick,Verano,Automatic,32.0,2400
-2019,Buick,Verano,Automatic,32.0,2400
-2019,Buick,Verano,Automatic,32.0,2400
-2019,Buick,Verano,Automatic,30.0,2000
-2019,Cadillac,ATS,Automatic,30.0,2000
-2019,Cadillac,ATS,Automatic,33.0,2500
-2019,Cadillac,ATS,Automatic,28.0,3600
-2019,Cadillac,ATS,Automatic,28.0,2000
-2019,Cadillac,ATS,Automatic,26.0,3600
-2019,Cadillac,ATS,Automatic,30.0,2000
-2019,Cadillac,ATS,Automatic,28.0,3600
-2019,Cadillac,ATS,Automatic,28.0,2000
-2019,Cadillac,ATS,Automatic,26.0,3600
-2019,Cadillac,ATS,Automatic,30.0,2000
-2019,Cadillac,ATS,Automatic,28.0,3600
-2019,Cadillac,ATS,Automatic,28.0,2000
-2019,Cadillac,ATS,Automatic,26.0,3600
-2019,Cadillac,ATS,Automatic,30.0,2000
-2019,Cadillac,ATS,Automatic,33.0,2500
-2019,Cadillac,ATS,Automatic,28.0,2000
-2019,Cadillac,ATS Coupe,Automatic,31.0,2000
-2019,Cadillac,ATS Coupe,Automatic,28.0,3600
-2019,Cadillac,ATS Coupe,Automatic,29.0,2000
-2019,Cadillac,ATS Coupe,Automatic,26.0,3600
-2019,Cadillac,ATS Coupe,Automatic,31.0,2000
-2019,Cadillac,ATS Coupe,Automatic,28.0,3600
-2019,Cadillac,ATS Coupe,Automatic,29.0,2000
-2019,Cadillac,ATS Coupe,Automatic,26.0,3600
-2019,Cadillac,ATS Coupe,Automatic,31.0,2000
-2019,Cadillac,ATS Coupe,Automatic,28.0,3600
-2019,Cadillac,ATS Coupe,Automatic,29.0,2000
-2019,Cadillac,ATS Coupe,Automatic,26.0,3600
-2019,Cadillac,ATS Coupe,Automatic,31.0,2000
-2019,Cadillac,ATS Coupe,Automatic,29.0,2000
-2019,Cadillac,CTS,Automatic,30.0,2000
-2019,Cadillac,CTS,Automatic,29.0,3600
-2019,Cadillac,CTS,Automatic,28.0,2000
-2019,Cadillac,CTS,Automatic,26.0,3600
-2019,Cadillac,CTS,Automatic,30.0,2000
-2019,Cadillac,CTS,Automatic,29.0,3600
-2019,Cadillac,CTS,Automatic,28.0,2000
-2019,Cadillac,CTS,Automatic,26.0,3600
-2019,Cadillac,CTS,Automatic,30.0,2000
-2019,Cadillac,CTS,Automatic,29.0,3600
-2019,Cadillac,CTS,Automatic,28.0,2000
-2019,Cadillac,CTS,Automatic,26.0,3600
-2019,Cadillac,CTS,Automatic,30.0,2000
-2019,Cadillac,CTS,Automatic,28.0,2000
-2019,Cadillac,CTS,Automatic,24.0,3600
-2019,Cadillac,CTS,Automatic,24.0,3600
-2019,Cadillac,CTS-V Coupe,Manual,19.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade,Automatic,21.0,6200
-2019,Cadillac,Escalade ESV,Automatic,21.0,6200
-2019,Cadillac,Escalade ESV,Automatic,20.0,6200
-2019,Cadillac,Escalade ESV,Automatic,21.0,6200
-2019,Cadillac,Escalade ESV,Automatic,20.0,6200
-2019,Cadillac,Escalade ESV,Automatic,21.0,6200
-2019,Cadillac,Escalade ESV,Automatic,20.0,6200
-2019,Cadillac,SRX,Automatic,24.0,3600
-2019,Cadillac,SRX,Automatic,23.0,3600
-2019,Cadillac,SRX,Automatic,24.0,3600
-2019,Cadillac,SRX,Automatic,23.0,3600
-2019,Cadillac,SRX,Automatic,24.0,3600
-2019,Cadillac,SRX,Automatic,23.0,3600
-2019,Cadillac,SRX,Automatic,24.0,3600
-2019,Cadillac,XTS,Automatic,28.0,3600
-2019,Cadillac,XTS,Automatic,28.0,3600
-2019,Cadillac,XTS,Automatic,26.0,3600
-2019,Cadillac,XTS,Automatic,28.0,3600
-2019,Cadillac,XTS,Automatic,26.0,3600
-2019,Cadillac,XTS,Automatic,28.0,3600
-2019,Cadillac,XTS,Automatic,26.0,3600
-2019,Cadillac,XTS,Automatic,24.0,3600
-2019,Cadillac,XTS,Automatic,24.0,3600
-2019,Chevrolet,Camaro,Manual,28.0,3600
-2019,Chevrolet,Camaro,Automatic,30.0,3600
-2019,Chevrolet,Camaro,Manual,28.0,3600
-2019,Chevrolet,Camaro,Manual,28.0,3600
-2019,Chevrolet,Camaro,Manual,28.0,3600
-2019,Chevrolet,Camaro,Manual,28.0,3600
-2019,Chevrolet,Camaro,Manual,24.0,6200
-2019,Chevrolet,Camaro,Manual,24.0,6200
-2019,Chevrolet,Camaro,Manual,24.0,6200
-2019,Chevrolet,Camaro,Manual,24.0,6200
-2019,Chevrolet,Camaro,Manual,19.0,7000
-2019,Chevrolet,Camaro,Manual,19.0,6200
-2019,Chevrolet,Camaro,Manual,19.0,6200
-2019,Chevrolet,City Express,Automatic,26.0,2000
-2019,Chevrolet,City Express,Automatic,26.0,2000
-2019,Chevrolet,Colorado,Manual,26.0,2500
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,26.0,3600
-2019,Chevrolet,Colorado,Automatic,27.0,2500
-2019,Chevrolet,Colorado,Automatic,25.0,2500
-2019,Chevrolet,Colorado,Automatic,27.0,2500
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,26.0,3600
-2019,Chevrolet,Colorado,Automatic,27.0,2500
-2019,Chevrolet,Colorado,Automatic,25.0,2500
-2019,Chevrolet,Colorado,Manual,26.0,2500
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,24.0,3600
-2019,Chevrolet,Colorado,Automatic,26.0,3600
-2019,Chevrolet,Colorado,Automatic,27.0,2500
-2019,Chevrolet,Colorado,Automatic,25.0,2500
-2019,Chevrolet,Colorado,Automatic,27.0,2500
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,29.0,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Corvette,Manual,,6200
-2019,Chevrolet,Cruze,Automatic,38.0,1400
-2019,Chevrolet,Cruze,Manual,38.0,1400
-2019,Chevrolet,Cruze,Automatic,38.0,1400
-2019,Chevrolet,Cruze,Automatic,46.0,2000
-2019,Chevrolet,Cruze,Automatic,39.0,1400
-2019,Chevrolet,Cruze,Manual,42.0,1400
-2019,Chevrolet,Cruze,Automatic,35.0,1800
-2019,Chevrolet,Cruze,Manual,36.0,1800
-2019,Chevrolet,Cruze,Automatic,38.0,1400
-2019,Chevrolet,Equinox,Automatic,32.0,2400
-2019,Chevrolet,Equinox,Automatic,29.0,2400
-2019,Chevrolet,Equinox,Automatic,29.0,2400
-2019,Chevrolet,Equinox,Automatic,29.0,2400
-2019,Chevrolet,Equinox,Automatic,32.0,2400
-2019,Chevrolet,Equinox,Automatic,32.0,2400
-2019,Chevrolet,Equinox,Automatic,32.0,2400
-2019,Chevrolet,Equinox,Automatic,29.0,2400
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,,6600
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,,6600
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,,6600
-2019,Chevrolet,Express,Automatic,17.0,4800
-2019,Chevrolet,Express,Automatic,,6600
-2019,Chevrolet,Express Cargo,Automatic,,4800
-2019,Chevrolet,Express Cargo,Automatic,,6600
-2019,Chevrolet,Express Cargo,Automatic,,4800
-2019,Chevrolet,Express Cargo,Automatic,,6600
-2019,Chevrolet,Express Cargo,Automatic,,4800
-2019,Chevrolet,Express Cargo,Automatic,,6600
-2019,Chevrolet,Express Cargo,Automatic,,4800
-2019,Chevrolet,Express Cargo,Automatic,,6600
-2019,Chevrolet,Impala,Automatic,31.0,2500
-2019,Chevrolet,Impala,Automatic,31.0,2500
-2019,Chevrolet,Impala,Automatic,29.0,3600
-2019,Chevrolet,Impala,Automatic,,3600
-2019,Chevrolet,Impala,Automatic,31.0,2500
-2019,Chevrolet,Impala,Automatic,29.0,3600
-2019,Chevrolet,Malibu,Automatic,36.0,2500
-2019,Chevrolet,Malibu,Automatic,36.0,2500
-2019,Chevrolet,Malibu,Automatic,36.0,2500
-2019,Chevrolet,Malibu,Automatic,30.0,2000
-2019,Chevrolet,Malibu,Automatic,36.0,2500
-2019,Chevrolet,Malibu,Automatic,30.0,2000
-2019,Chevrolet,Silverado 1500,Automatic,22.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,23.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,23.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,23.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,23.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,23.0,5300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,22.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
-2019,Chevrolet,Silverado 1500,Automatic,24.0,4300
+Year,model,Transmission,mpg,Displacement
+2019,Acura,Automatic,35.0,2000
+2019,Acura,Automatic,35.0,2000
+2019,Acura,Manual,31.0,2400
+2019,Acura,Automatic,35.0,2000
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,,3500
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,28.0,3500
+2019,Acura,Automatic,27.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automated Manual,35.0,2400
+2019,Acura,Automatic,34.0,3500
+2019,Acura,Automatic,34.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automatic,31.0,3500
+2019,Acura,Automated Manual,35.0,2400
+2019,Acura,Automatic,34.0,3500
+2019,Audi,Automated Manual,35.0,1800
+2019,Audi,Automated Manual,33.0,1800
+2019,Audi,Automated Manual,35.0,1800
+2019,Audi,Automated Manual,33.0,1800
+2019,Audi,Automated Manual,35.0,1800
+2019,Audi,Automated Manual,33.0,1800
+2019,Audi,Automated Manual,43.0,2000
+2019,Audi,Automated Manual,43.0,2000
+2019,Audi,Automated Manual,43.0,2000
+2019,Audi,Automated Manual,32.0,2000
+2019,Audi,Automated Manual,33.0,2000
+2019,Audi,Automated Manual,32.0,2000
+2019,Audi,Automated Manual,33.0,2000
+2019,Audi,Automated Manual,32.0,2000
+2019,Audi,Automated Manual,33.0,2000
+2019,Audi,Automated Manual,,1400
+2019,Audi,Automatic,32.0,2000
+2019,Audi,Automatic,32.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Automatic,32.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Manual,32.0,2000
+2019,Audi,Automatic,31.0,2000
+2019,Audi,Automatic,33.0,2000
+2019,Audi,Automatic,33.0,2000
+2019,Audi,Automatic,29.0,2000
+2019,Audi,Automatic,29.0,2000
+2019,Audi,Automatic,27.0,3000
+2019,Audi,Automatic,27.0,3000
+2019,Audi,Automatic,38.0,3000
+2019,Audi,Automatic,38.0,3000
+2019,Audi,Automatic,28.0,3000
+2019,Audi,Automatic,28.0,3000
+2019,Audi,Automatic,38.0,3000
+2019,Audi,Automatic,38.0,3000
+2019,Audi,Automatic,29.0,3000
+2019,Audi,Automatic,30.0,4000
+2019,Audi,Automatic,29.0,3000
+2019,Audi,Automatic,29.0,4000
+2019,Audi,Automatic,36.0,3000
+2019,Audi,Automatic,22.0,6300
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,29.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,29.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,28.0,2000
+2019,Audi,Automatic,30.0,2000
+2019,Audi,Automatic,26.0,3000
+2019,Audi,Automatic,26.0,3000
+2019,Audi,Automatic,31.0,3000
+2019,Audi,Automatic,31.0,3000
+2019,Audi,Automatic,22.0,3000
+2019,Audi,Automatic,22.0,3000
+2019,Audi,Automatic,22.0,3000
+2019,Audi,Automatic,28.0,3000
+2019,Audi,Automatic,28.0,3000
+2019,Audi,Automatic,28.0,3000
+2019,Audi,Manual,19.0,5200
+2019,Audi,Automated Manual,22.0,5200
+2019,Audi,Automated Manual,,5200
+2019,Audi,Manual,19.0,5200
+2019,Audi,Automated Manual,22.0,5200
+2019,Audi,Manual,19.0,5200
+2019,Audi,Automated Manual,22.0,5200
+2019,Audi,Manual,19.0,5200
+2019,Audi,Automated Manual,22.0,5200
+2019,Audi,Manual,20.0,4200
+2019,Audi,Automated Manual,23.0,4200
+2019,Audi,Manual,20.0,4200
+2019,Audi,Automated Manual,23.0,4200
+2019,Audi,Automated Manual,22.0,4200
+2019,Audi,Automated Manual,23.0,4200
+2019,Audi,Automatic,27.0,4000
+2019,Audi,Automated Manual,,2000
+2019,Audi,Automated Manual,,2000
+2019,Audi,Manual,26.0,3000
+2019,Audi,Automated Manual,28.0,3000
+2019,Audi,Manual,26.0,3000
+2019,Audi,Automated Manual,28.0,3000
+2019,Audi,Automated Manual,26.0,3000
+2019,Audi,Manual,26.0,3000
+2019,Audi,Automated Manual,28.0,3000
+2019,Audi,Automated Manual,26.0,3000
+2019,Audi,Manual,26.0,3000
+2019,Audi,Automated Manual,28.0,3000
+2019,Audi,Automated Manual,27.0,4000
+2019,Audi,Automated Manual,27.0,4000
+2019,Audi,Automatic,27.0,4000
+2019,Audi,Automatic,24.0,3000
+2019,Audi,Automatic,24.0,3000
+2019,Audi,Automated Manual,31.0,2000
+2019,Audi,Automated Manual,31.0,2000
+2019,Audi,Automated Manual,31.0,2000
+2019,Audi,Automated Manual,31.0,2000
+2019,Bentley,Automatic,20.0,6000
+2019,Bentley,Automatic,21.0,6000
+2019,Bentley,Automatic,20.0,6000
+2019,Bentley,Automatic,21.0,6000
+2019,Bentley,Automatic,24.0,4000
+2019,Bentley,Automatic,25.0,4000
+2019,Bentley,Automatic,24.0,4000
+2019,Bentley,Automatic,25.0,4000
+2019,Bentley,Automatic,24.0,4000
+2019,Bentley,Automatic,20.0,6000
+2019,Bentley,Automatic,18.0,6800
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,36.0,2000
+2019,BMW,Automatic,36.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,36.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,45.0,2000
+2019,BMW,Automatic,43.0,2000
+2019,BMW,Automatic,43.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,33.0,3000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,35.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,33.0,2000
+2019,BMW,Automatic,38.0,3000
+2019,BMW,Automatic,37.0,3000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,28.0,3000
+2019,BMW,Automatic,26.0,3000
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,32.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,29.0,3000
+2019,BMW,Automatic,28.0,3000
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,20.0,6000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,30.0,3000
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Automatic,25.0,4400
+2019,BMW,Automatic,24.0,4400
+2019,BMW,Manual,26.0,3000
+2019,BMW,Manual,26.0,3000
+2019,BMW,Manual,26.0,3000
+2019,BMW,Automated Manual,20.0,4400
+2019,BMW,Automated Manual,20.0,4400
+2019,BMW,Automated Manual,20.0,4400
+2019,BMW,Automated Manual,20.0,4400
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,32.0,2000
+2019,BMW,Automatic,27.0,3000
+2019,BMW,Automatic,28.0,2000
+2019,BMW,Automatic,34.0,2000
+2019,BMW,Automatic,28.0,2000
+2019,BMW,Automatic,26.0,3000
+2019,BMW,Automatic,,2000
+2019,BMW,Automatic,,3000
+2019,BMW,Automatic,27.0,3000
+2019,BMW,Automatic,31.0,3000
+2019,BMW,Automatic,27.0,3000
+2019,BMW,Automatic,22.0,4400
+2019,BMW,Automatic,27.0,3000
+2019,BMW,Automatic,27.0,3000
+2019,BMW,Automatic,22.0,4400
+2019,BMW,Manual,34.0,2000
+2019,BMW,Automated Manual,24.0,3000
+2019,BMW,Automated Manual,24.0,3000
+2019,Buick,Automatic,24.0,3600
+2019,Buick,Automatic,24.0,3600
+2019,Buick,Automatic,22.0,3600
+2019,Buick,Automatic,24.0,3600
+2019,Buick,Automatic,22.0,3600
+2019,Buick,Automatic,33.0,1400
+2019,Buick,Automatic,30.0,1400
+2019,Buick,Automatic,33.0,1400
+2019,Buick,Automatic,30.0,1400
+2019,Buick,Automatic,33.0,1400
+2019,Buick,Automatic,30.0,1400
+2019,Buick,Automatic,33.0,1400
+2019,Buick,Automatic,30.0,1400
+2019,Buick,Automatic,36.0,2400
+2019,Buick,Automatic,36.0,2400
+2019,Buick,Automatic,26.0,3600
+2019,Buick,Automatic,28.0,3600
+2019,Buick,Automatic,26.0,3600
+2019,Buick,Automatic,28.0,3600
+2019,Buick,Automatic,30.0,2000
+2019,Buick,Automatic,27.0,2000
+2019,Buick,Automatic,30.0,2000
+2019,Buick,Automatic,27.0,2000
+2019,Buick,Automatic,30.0,2000
+2019,Buick,Automatic,27.0,2000
+2019,Buick,Automatic,30.0,2000
+2019,Buick,Automatic,27.0,2000
+2019,Buick,Automatic,32.0,2400
+2019,Buick,Automatic,32.0,2400
+2019,Buick,Automatic,32.0,2400
+2019,Buick,Automatic,30.0,2000
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,33.0,2500
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,33.0,2500
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,31.0,2000
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,29.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,31.0,2000
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,29.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,31.0,2000
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,29.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,31.0,2000
+2019,Cadillac,Automatic,29.0,2000
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,29.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,29.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,29.0,3600
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,30.0,2000
+2019,Cadillac,Automatic,28.0,2000
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Manual,19.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,20.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,20.0,6200
+2019,Cadillac,Automatic,21.0,6200
+2019,Cadillac,Automatic,20.0,6200
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,23.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,23.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,23.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,28.0,3600
+2019,Cadillac,Automatic,26.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Cadillac,Automatic,24.0,3600
+2019,Chevrolet,Manual,28.0,3600
+2019,Chevrolet,Automatic,30.0,3600
+2019,Chevrolet,Manual,28.0,3600
+2019,Chevrolet,Manual,28.0,3600
+2019,Chevrolet,Manual,28.0,3600
+2019,Chevrolet,Manual,28.0,3600
+2019,Chevrolet,Manual,24.0,6200
+2019,Chevrolet,Manual,24.0,6200
+2019,Chevrolet,Manual,24.0,6200
+2019,Chevrolet,Manual,24.0,6200
+2019,Chevrolet,Manual,19.0,7000
+2019,Chevrolet,Manual,19.0,6200
+2019,Chevrolet,Manual,19.0,6200
+2019,Chevrolet,Automatic,26.0,2000
+2019,Chevrolet,Automatic,26.0,2000
+2019,Chevrolet,Manual,26.0,2500
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,26.0,3600
+2019,Chevrolet,Automatic,27.0,2500
+2019,Chevrolet,Automatic,25.0,2500
+2019,Chevrolet,Automatic,27.0,2500
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,26.0,3600
+2019,Chevrolet,Automatic,27.0,2500
+2019,Chevrolet,Automatic,25.0,2500
+2019,Chevrolet,Manual,26.0,2500
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,24.0,3600
+2019,Chevrolet,Automatic,26.0,3600
+2019,Chevrolet,Automatic,27.0,2500
+2019,Chevrolet,Automatic,25.0,2500
+2019,Chevrolet,Automatic,27.0,2500
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,29.0,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Manual,,6200
+2019,Chevrolet,Automatic,38.0,1400
+2019,Chevrolet,Manual,38.0,1400
+2019,Chevrolet,Automatic,38.0,1400
+2019,Chevrolet,Automatic,46.0,2000
+2019,Chevrolet,Automatic,39.0,1400
+2019,Chevrolet,Manual,42.0,1400
+2019,Chevrolet,Automatic,35.0,1800
+2019,Chevrolet,Manual,36.0,1800
+2019,Chevrolet,Automatic,38.0,1400
+2019,Chevrolet,Automatic,32.0,2400
+2019,Chevrolet,Automatic,29.0,2400
+2019,Chevrolet,Automatic,29.0,2400
+2019,Chevrolet,Automatic,29.0,2400
+2019,Chevrolet,Automatic,32.0,2400
+2019,Chevrolet,Automatic,32.0,2400
+2019,Chevrolet,Automatic,32.0,2400
+2019,Chevrolet,Automatic,29.0,2400
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,17.0,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,,4800
+2019,Chevrolet,Automatic,,6600
+2019,Chevrolet,Automatic,31.0,2500
+2019,Chevrolet,Automatic,31.0,2500
+2019,Chevrolet,Automatic,29.0,3600
+2019,Chevrolet,Automatic,,3600
+2019,Chevrolet,Automatic,31.0,2500
+2019,Chevrolet,Automatic,29.0,3600
+2019,Chevrolet,Automatic,36.0,2500
+2019,Chevrolet,Automatic,36.0,2500
+2019,Chevrolet,Automatic,36.0,2500
+2019,Chevrolet,Automatic,30.0,2000
+2019,Chevrolet,Automatic,36.0,2500
+2019,Chevrolet,Automatic,30.0,2000
+2019,Chevrolet,Automatic,22.0,5300
+2019,Chevrolet,Automatic,22.0,5300
+2019,Chevrolet,Automatic,23.0,5300
+2019,Chevrolet,Automatic,23.0,5300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,5300
+2019,Chevrolet,Automatic,22.0,5300
+2019,Chevrolet,Automatic,23.0,5300
+2019,Chevrolet,Automatic,23.0,5300
+2019,Chevrolet,Automatic,22.0,5300
+2019,Chevrolet,Automatic,23.0,5300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,22.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
+2019,Chevrolet,Automatic,24.0,4300
