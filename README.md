@@ -136,6 +136,9 @@ another level of fuel economy.
 
 ![Mpg vs Displacement Chart1](plot_image/mg_displacement.png)
 
+#### **4. Question: What's the ranking of fuel econnomy based on brand ?**
+
+![mpg brand](plot_image/mpg_brand.png)
 
 
 ### 3.2 Kijiji Data Analysis
