@@ -99,7 +99,7 @@ to have better fuel economy, and newer used cars are more expensive. Secondly, C
 fuel economy and the technologies associated with them also tend to be more expensive.
 
 ```
-<div style="text-align:center"><img src ="plot_image/MPG_PRICE.PNG">Distribution of MPG vs List Price Chart</div>
+<img style="text-align:center"src ="plot_image/MPG_PRICE.PNG">
 
 
 
