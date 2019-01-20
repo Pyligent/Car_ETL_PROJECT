@@ -94,6 +94,7 @@
  - **Average Price based on Brands on Kijiji website**
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_average_price.png)
  
+ 
 ### 3.2 Autolist Data Plot
 
 - **Price vs. Miles per Galon - cars made in 2015 (USA)**
