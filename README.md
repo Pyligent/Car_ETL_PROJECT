@@ -69,6 +69,7 @@
 - plot the data
 - [Kijiji Data Transformation and Plot - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_Data_Trans_Plot.ipynb)
 - [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb)
+- [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
 
 
@@ -92,6 +93,21 @@
  
  - **Average Price based on Brands on Kijiji website**
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_average_price.png)
+ 
+### 3.1 Autolist Data Plot
+- **Displacement vs. Miles per Galon (USA data)**
+![Displacement vs. Miles per Galon (USA data)](plot_image/auto_trader_displacement_MPG.png)
+
+- **Price vs. Displacement - cars made in 2015 (USA)**
+![Price vs. Displacement - cars made in 2015 (USA)](plot_image/auto_trader_price2015_displacement.png)
+
+- **[MPG by make (USA data)]**
+![MPG by make (USA data)](plot_image/auto_trader_make_MPG.png)
+
+- **[Displacement by make (USA data)]**
+![plot_image/auto_trader_make_displacement.png]
+
+- **[]**
 
 
 
