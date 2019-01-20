@@ -136,7 +136,21 @@ another level of fuel economy.
 
 ![Mpg vs Displacement Chart1](plot_image/mg_displacement.png)
 
-#### **4. Question: What's the ranking of fuel econnomy based on brand ?**
+#### **5. Question: Can a relationship be made between car brand (make) and fuel econnomy?**
+```
+This bar graph displays the relationship between car manufacturer and fuel economy. As expected,
+there is a clear correlation between the entry level or “economy brands having better fuel
+economy. Luxury and sports cars tend to put a premium on power and weigh more, while economy
+cars put more emphasis on operating costs. This trend can be clearly seen with one exception:
+Lexus, while being a “luxury” brand, in this particular data set is number 1 for fuel economy.
+This can be explained by the fact that Toyota was one of the first to the mass-market with hybrid
+technology (Prius). They were also one of the first to introduce this hybrid technology to their
+luxury division (Lexus). As this database is based on used cars, it stands to reason that both
+Toyota and lexus would be found in the top 4 for fuel economy. The other two in the top 4 are
+Fiat and Kia who are both known for primarily making sub-compact cars which by nature are very
+fuel efficient.
+
+```
 
 ![mpg brand](plot_image/mpg_brand.png)
 
