@@ -117,6 +117,7 @@
 
 
 
+
 ## 4. Load
 
 - put all data into MySql server via pymysql 
