@@ -71,8 +71,8 @@
 
 - put all data into MySql server via pymysql 
 - load code :
-  'import pandas as pd
-   import pymysql
+  'import pandas as pd'
+  'import pymysql'
    pymysql.install_as_MySQLdb()
    
    from sqlalchemy import create_engine
