@@ -118,7 +118,8 @@
 # 4. Load
 
 - put all data into MySql server via pymysql 
-  [Data Load to MySql Server - Jupyter Notebook](https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/data_load_mysql.ipynb)
+
+- [Data Load to MySql Server - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/data_load_mysql.ipynb)
 - load code :
  ```
    import pandas as pd`
