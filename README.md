@@ -76,8 +76,12 @@
 ## 3. Data Plotting
 
 ### 3.1 Kijiji Data Plot
- - **Total car sales on kijiji website in GTA area**
- ![Total car sales on kijiji website in GTA area](plot_image/kijiji_average_mileage.png)
+
+- **Total car sales on kijiji website in GTA area**
+ ![Total car sales on kijiji website in GTA area](plot_image/kijiji_car_count.png)
+ 
+ - **Average Mileages based on Brands on Kijiji website**
+ ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
  
  - **Brand Numbers on kijiji website in GTA area**
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
