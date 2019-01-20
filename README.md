@@ -66,8 +66,14 @@
 
 
 
+# 3. Data Plotting
 
-# 3. Load
+## 3.1 Kijiji Data Plot(
+ - ![Total car sales on kijiji website in GTA area](plot_image/kijiji_average_mileage.png)
+
+
+
+# 4. Load
 
 - put all data into MySql server via pymysql 
 - load code :
@@ -79,5 +85,7 @@
    conn = create_engine('mysql://root:password@127.0.0.1/favorite_db')
    kijiji_full_df = pd.read_csv('kijiji_car.csv')
    kijiji_full_df.to_sql('kijiji_origin', con=conn)
+ 
+ 
  
 
