@@ -4,10 +4,10 @@
 
 ##  Data Source
 - Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
-- Scraped:   Autolist.com (U.S. Data)
+- Scraped:   <https://www.autolist.com> (U.S. Data)
 - API:       [Car Query API](http://www.carqueryapi.com/) (use the [json files](data/carquery.json))
-- CSV:       [Fuel Economy Web Service](https://www.fueleconomy.gov/feg/ws/index.shtml#fuelType1) offers web services for developers interested in using the fuel economy database [csv data](data/vehicles.csv)
-- CSV:        https://www.kaggle.com/toramky/automobile-dataset/kernels?sortBy=hotness&group=everyone&pageSize=20&datasetId=1291&language=Python
+- CSV:       [Fuel Economy Web Service](https://www.fueleconomy.gov/feg/ws/index.shtml#fuelType1) offers the fuel economy database [csv data](data/vehicles.csv)
+- CSV:        <https://www.kaggle.com/toramky/automobile-dataset/kernels?sortBy=hotness&group=everyone&pageSize=20&datasetId=1291&language=Python>
 
 
 
@@ -16,9 +16,9 @@
 
 ## 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
 
-### [A. Kijiji Scaper (raw data)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijii_car_scaper.ipynb)
+[A. Kijiji Scaper (raw data)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijii_car_scaper.ipynb)
 
-### [B. Kijiji Scaper (clean data with vin number and image link)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijiji_car_scaper_fullset.ipynb)
+[B. Kijiji Scaper (clean data with vin number and image link)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijiji_car_scaper_fullset.ipynb)
 #### Key Car information is as below:
 
 - 'brand'
@@ -59,7 +59,7 @@
 - image_link: 'https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/c9AAAOSwDkBbpAaq/$_59.JPG'
 - dealer_address: '2 Castleton Ave unit 3, York, ON, M6N 3Z5'
 
-## 1.2. Extract all listing car information from [autolist website](www.autolist.com)
+## 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
 [Autolist.com scaper - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/mlouisju/ETL%20Project%20-%20Autolist.ipynb)
 
 # 2. Transformation
