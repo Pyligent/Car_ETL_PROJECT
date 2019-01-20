@@ -130,6 +130,7 @@ economy improves with smaller displacement regardless of turbo charging and hors
 There are a couple “outliers” with “super fuel efficiency”. These are the result of small 
 displacement “Hybrids” which supplement combustion power with electrical power, and represent
 another level of fuel economy.
+```
 
 ![Mpg vs Displacement Chart](plot_image/Scatter_Plot_Mph_by_Displacement.png)
 
