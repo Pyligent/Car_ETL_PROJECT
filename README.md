@@ -155,7 +155,7 @@ fuel efficient.
 
 ### 3.2 Kijiji Data Analysis
 
-#### **Question: Which model year is listed most in the kijiji website in GTA area?**
+#### **Question: Which model year is most listed on the kijiji website in GTA area?**
 ```
 From the chart, we know the most listing used cars' model year is around 2015. Partly because 
 after four years driving, the car is off lease and warranty is gone. So people is seeking to
