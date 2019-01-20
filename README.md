@@ -75,10 +75,6 @@
 ### 2.2 Data Tansform  - API Data
 - [CarQuery API Data Transformation - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
 
-### 2.3 Car Information Analysis
-- [Integrated all Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
-
-
 
 ## 3. Data Analysis
 
@@ -87,7 +83,7 @@
 
 - **Distribution of Mpg vs List Price Chart**
 
-#### **A. Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
+#### **Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
 ```
 The following chart showing the displacement of individual results underlaid by a distribution
@@ -105,7 +101,7 @@ fuel economy and the technologies associated with them also tend to be more expe
  ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
  
 
-#### **B. Question: Can a relationship be made between car prices and fuel econnomy?(part 2)**
+#### **Question: Can a relationship be made between car prices and fuel econnomy?(part 2)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
 ```
 The following chart shows the highest density in the distribution of results. This database was 
@@ -123,7 +119,7 @@ associated with them also tend to be more expensive.
 ![Distribution of MPG vs List Price Chart2](plot_image/MPG_PRICE2.png)
 
 
-#### **C. Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
+#### **Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
 ```
 This chart displays the relationship between displacement and fuel economy. In modern cars,
 lower displacement turbo charged motors are producing the same or even more horsepower than 
@@ -138,7 +134,7 @@ another level of fuel economy.
 
 ![Mpg vs Displacement Chart1](plot_image/mg_displacement.png)
 
-#### **D. Question: Can a relationship be made between car brand (make) and fuel econnomy?**
+#### **Question: Can a relationship be made between car brand (make) and fuel econnomy?**
 ```
 This bar graph displays the relationship between car manufacturer and fuel economy. As expected,
 there is a clear correlation between the entry level or “economy brands having better fuel
@@ -159,6 +155,11 @@ fuel efficient.
 
 ### 3.2 Kijiji Data Analysis
 
+#### **Question: Which model year is listed most in the kijiji website in GTA area?**
+```
+From the chart, we know the most listing used car in model year 2015. Partly because the car is 
+off lease and warranty is gone. So people want to sell it. 
+```
 - **Total car sales on kijiji website in GTA area based on Model Year**
  ![Total car sales on kijiji website in GTA area based on Model Year](plot_image/kijiji_car_count.png)
  
