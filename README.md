@@ -12,9 +12,9 @@
 
 
 
-# 1. Extraction 
+## 1. Extraction 
 
-## 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
+### 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
 
 [A. Kijiji Scaper (raw data)  - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/kijii_car_scaper.ipynb)
 
@@ -38,7 +38,7 @@
 - 'image_link'
 - 'dealer_address'
 
-### Examples:
+#### Examples:
 
 #### Car Information link: https://www.kijiji.ca/v-cars-trucks/city-of-toronto/2009-ford-f-150-xlt-super-crew-4x4/1385290163
 
@@ -59,10 +59,10 @@
 - image_link: 'https://i.ebayimg.com/00/s/NDgwWDY0MA==/z/c9AAAOSwDkBbpAaq/$_59.JPG'
 - dealer_address: '2 Castleton Ave unit 3, York, ON, M6N 3Z5'
 
-## 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
+### 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
 [Autolist.com scaper - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/mlouisju/ETL%20Project%20-%20Autolist.ipynb)
 
-# 2. Transformation
+## 2. Transformation
 
 - Clean the dirty data
 - merge the api date to get the MPG and displacement information
@@ -73,7 +73,7 @@
 
 
 
-# 3. Data Plotting
+## 3. Data Plotting
 
 ### 3.1 Kijiji Data Plot
  - **Total car sales on kijiji website in GTA area**
@@ -115,7 +115,7 @@
 
 
 
-# 4. Load
+## 4. Load
 
 - put all data into MySql server via pymysql 
 
