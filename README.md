@@ -87,7 +87,7 @@
 
 - **Distribution of Mpg vs List Price Chart**
 
-#### **1.Question: Can a relationship be made between car prices and fuel econnomy?**
+#### **1. Question: Can a relationship be made between car prices and fuel econnomy?**
 ```
 The following chart showing the displacement of individual results underlaid by a distribution
 graph showing the highest density of results. This database was almost entirely made up of used
@@ -104,7 +104,7 @@ fuel economy and the technologies associated with them also tend to be more expe
  ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
  
 
-#### **2.Question: Can a relationship be made between car prices and fuel econnomy?**
+#### **2. Question: Can a relationship be made between car prices and fuel econnomy?**
 ```
 The following chart shows the highest density in the distribution of results. This database was 
 almost entirely made up of used cars, therefore the results we see are a representation of
@@ -119,6 +119,19 @@ associated with them also tend to be more expensive.
 
 ```
 ![Distribution of MPG vs List Price Chart2](plot_image/MPG_PRICE2.png)
+
+
+#### **3. Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
+```
+This chart displays the relationship between displacement and fuel economy. In modern cars,
+lower displacement turbo charged motors are producing the same or even more horsepower than 
+the larger displacement naturally aspirated motors. The graph here seems to indicate that fuel
+economy improves with smaller displacement regardless of turbo charging and horsepower gains.
+There are a couple “outliers” with “super fuel efficiency”. These are the result of small 
+displacement “Hybrids” which supplement combustion power with electrical power, and represent
+another level of fuel economy.
+
+![Mpg vs Displacement Chart](plot_image/Scatter_Plot_Mph_by_Displacement.png)
 
 
 ### 3.2 Kijiji Data Analysis
