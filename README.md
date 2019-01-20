@@ -60,7 +60,7 @@
 - dealer_address: '2 Castleton Ave unit 3, York, ON, M6N 3Z5'
 
 ### 1.2. Extract all listing car information from [autolist website](https://www.autolist.com)
-[Autolist.com scaper - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/mlouisju/ETL%20Project%20-%20Autolist.ipynb)
+- [Autolist.com scaper - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/mlouisju/ETL%20Project%20-%20Autolist.ipynb)
 
 ## 2. Transformation
 
@@ -87,7 +87,7 @@
 
 - **Distribution of Mpg vs List Price Chart**
 
-#### **1. Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
+#### **A. Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
 ```
 The following chart showing the displacement of individual results underlaid by a distribution
@@ -105,7 +105,7 @@ fuel economy and the technologies associated with them also tend to be more expe
  ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
  
 
-#### **2. Question: Can a relationship be made between car prices and fuel econnomy?(part 2)**
+#### **B. Question: Can a relationship be made between car prices and fuel econnomy?(part 2)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
 ```
 The following chart shows the highest density in the distribution of results. This database was 
@@ -123,7 +123,7 @@ associated with them also tend to be more expensive.
 ![Distribution of MPG vs List Price Chart2](plot_image/MPG_PRICE2.png)
 
 
-#### **3. Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
+#### **C. Question: Can a relationship be made between displacement (motor size) and fuel econnomy?**
 ```
 This chart displays the relationship between displacement and fuel economy. In modern cars,
 lower displacement turbo charged motors are producing the same or even more horsepower than 
@@ -138,7 +138,7 @@ another level of fuel economy.
 
 ![Mpg vs Displacement Chart1](plot_image/mg_displacement.png)
 
-#### **4. Question: Can a relationship be made between car brand (make) and fuel econnomy?**
+#### **D. Question: Can a relationship be made between car brand (make) and fuel econnomy?**
 ```
 This bar graph displays the relationship between car manufacturer and fuel economy. As expected,
 there is a clear correlation between the entry level or “economy brands having better fuel
