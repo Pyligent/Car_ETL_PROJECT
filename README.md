@@ -87,7 +87,8 @@
 
 - **Distribution of Mpg vs List Price Chart**
 
-#### **1. Question: Can a relationship be made between car prices and fuel econnomy?**
+#### **1. Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
+- By using Generate Kernel Density Estimate plot using Gaussian kernels plot
 ```
 The following chart showing the displacement of individual results underlaid by a distribution
 graph showing the highest density of results. This database was almost entirely made up of used
@@ -104,7 +105,8 @@ fuel economy and the technologies associated with them also tend to be more expe
  ![Distribution of MPG vs List Price Chart](plot_image/MPG_PRICE.PNG)
  
 
-#### **2. Question: Can a relationship be made between car prices and fuel econnomy?**
+#### **2. Question: Can a relationship be made between car prices and fuel econnomy?(part 2)**
+- By using Generate Kernel Density Estimate plot using Gaussian kernels plot
 ```
 The following chart shows the highest density in the distribution of results. This database was 
 almost entirely made up of used cars, therefore the results we see are a representation of
