@@ -77,8 +77,8 @@
       </head>
     </html>
   
-  `import pymysql'
-  `pymysql.install_as_MySQLdb()`
+  `import pymysql
+  `pymysql.install_as_MySQLdb()
   `from sqlalchemy import create_engine`
   `conn = create_engine('mysql://root:password@127.0.0.1/favorite_db')'
   `kijiji_full_df = pd.read_csv('kijiji_car.csv')`
