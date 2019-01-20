@@ -64,6 +64,7 @@
 
 ## 2. Transformation
 
+### 2.1 Data Tansform - Scraped Data
 - Clean the dirty data
 - merge the api date to get the MPG and displacement information
 - plot the data
@@ -71,11 +72,31 @@
 - [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb)
 - [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
+### 2.2 Data Tansform  - API Data
+- [CarQuery API Data Transformation - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
+
+### 2.3 Car Information Analysis
+- [Integrated all Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
 
 
-## 3. Data Plotting
 
-### 3.1 Kijiji Data Plot
+## 3. Data Analysis
+
+### 3.1 Car Information Analysis
+- [Integrated all Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
+
+#### **Question: Can a relationship be made between car prices and fuel econnomy?**
+'''
+The following chart showing the displacement of individual results underlaid by a distribution graph showing the highest density of results. This database was almost entirely made up of used cars, therefore the results we see are a representation of the fuel economy in relation to the list price of available used cars. The final conclusion here is that in small numbers, used cars of all fuel economies are available across all price points. However there is a trend with the majority of 5k−
+10k cars having 20mpg or less. The trend gradually increases to demonstrate that a high number of used cars are available at the 15k−
+20k price point that are far more fuel efficient, between 23 and 30 mpg. These results are driven by two main factors, 1/ New cars tend to have better fuel economy, and newer used cars are more expensive. Secondly, Cars with higher fuel economy and the technologies associated with them also tend to be more expensive.
+'''
+
+- **Distribution of MPG vs List Price Chart**(plot_image/MPG_PRICE.PNG)
+
+
+
+### 3.2 Kijiji Data Analysis
 
 - **Total car sales on kijiji website in GTA area based on Model Year**
  ![Total car sales on kijiji website in GTA area based on Model Year](plot_image/kijiji_car_count.png)
