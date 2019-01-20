@@ -87,15 +87,16 @@
 
 #### **Question: Can a relationship be made between car prices and fuel econnomy?**
 ```
-The following chart showing the displacement of individual results underlaid by a distribution graph showing 
-the highest density of results. This database was almost entirely made up of used cars, therefore the results 
-we see are a representation of the fuel economy in relation to the list price of available used cars. The final 
-conclusion here is that in small numbers, used cars of all fuel economies are available across all price points. 
-However there is a trend with the majority of 5k−10k cars having 20mpg or less. The trend gradually increases to 
-demonstrate that a high number of used cars are available at the 15k−20k price point that are far more fuel 
-efficient, between 23 and 30 mpg. These results are driven by two main factors, 1/ New cars tend to have better 
-fuel economy, and newer used cars are more expensive. Secondly, Cars with higher fuel economy and the 
-technologies associated with them also tend to be more expensive.
+The following chart showing the displacement of individual results underlaid by a distribution graph 
+showing the highest density of results. This database was almost entirely made up of used cars, 
+therefore the results we see are a representation of the fuel economy in relation to the list price 
+of available used cars. The final conclusion here is that in small numbers, used cars of all fuel 
+economies are available across all price points. However there is a trend with the majority of 5k−10k 
+cars having 20mpg or less. The trend gradually increases to demonstrate that a high number of used 
+cars are available at the 15k−20k price point that are far more fuel efficient, between 23 and 30 mpg.
+These results are driven by two main factors, 1/ New cars tend to have better fuel economy, and newer
+used cars are more expensive. Secondly, Cars with higher fuel economy and the technologies associated 
+with them also tend to be more expensive.
 
 ```
 
