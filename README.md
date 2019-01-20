@@ -98,21 +98,25 @@
 ### 3.2 Autolist Data Plot
 
 - **Price vs. Miles per Galon - cars made in 2015 (USA)**
+
 ![Price vs. Miles per Galon - cars made in 2015 (USA)](plot_image/auto_trader_price2015_MPG.png)
 
 - **Displacement vs. Miles per Galon (USA data)**
+
 ![Displacement vs. Miles per Galon (USA data)](plot_image/auto_trader_displacement_MPG.png)
 
 - **Price vs. Displacement - cars made in 2015 (USA)**
+
 ![Price vs. Displacement - cars made in 2015 (USA)](plot_image/auto_trader_price2015_displacement.png)
 
 - **[MPG by make (USA data)]**
+
 ![MPG by make (USA data)](plot_image/auto_trader_make_MPG.png)
 
 - **[Displacement by make (USA data)]**
+
 ![plot_image/auto_trader_make_displacement.png]
 
-- **[]**
 
 
 
