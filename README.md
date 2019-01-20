@@ -79,5 +79,5 @@
    conn = create_engine('mysql://root:password@127.0.0.1/favorite_db')
    kijiji_full_df = pd.read_csv('kijiji_car.csv')
    kijiji_full_df.to_sql('kijiji_origin', con=conn)
- '''
+ 
 
