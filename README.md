@@ -80,23 +80,21 @@
 - **Total car sales on kijiji website in GTA area based on Model Year**
  ![Total car sales on kijiji website in GTA area based on Model Year](plot_image/kijiji_car_count.png)
  
- - **Average Mileages based on Brands on Kijiji website**
- ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
- 
- - **Brand Numbers on kijiji website in GTA area**
+- **Brand Numbers on kijiji website in GTA area**
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
  
- - **Average price of vehicles by vehicle type and brand**
- ![Average price of vehicles by vehicle type and brand](plot_image/kijiji_type_price.png)
- 
- - **Average mileage of vehicles by vehicle type and brand**
- ![Average mileage of vehicles by vehicle type and brand](plot_image/kijiji_type_mileage.png)
- 
- - **Average Mileages based on Brands on Kijiji website**
+- **Average Mileages based on Brands on Kijiji website**
  ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
  
- - **Average Price based on Brands on Kijiji website**
+- **Average Price based on Brands on Kijiji website**
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_average_price.png)
+ 
+- **Average price of vehicles by vehicle type and brand**
+ ![Average price of vehicles by vehicle type and brand](plot_image/kijiji_type_price.png)
+ 
+- **Average mileage of vehicles by vehicle type and brand**
+ ![Average mileage of vehicles by vehicle type and brand](plot_image/kijiji_type_mileage.png)
+ 
  
  
 ### 3.2 Autolist Data Plot
