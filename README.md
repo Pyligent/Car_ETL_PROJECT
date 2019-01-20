@@ -94,7 +94,11 @@
  - **Average Price based on Brands on Kijiji website**
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_average_price.png)
  
-### 3.1 Autolist Data Plot
+### 3.2 Autolist Data Plot
+
+- **Price vs. Miles per Galon - cars made in 2015 (USA)**
+![Price vs. Miles per Galon - cars made in 2015 (USA)](plot_image/auto_trader_price2015_MPG.png)
+
 - **Displacement vs. Miles per Galon (USA data)**
 ![Displacement vs. Miles per Galon (USA data)](plot_image/auto_trader_displacement_MPG.png)
 
