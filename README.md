@@ -134,6 +134,9 @@ another level of fuel economy.
 
 ![Mpg vs Displacement Chart](plot_image/Scatter_Plot_Mph_by_Displacement.png)
 
+![Mpg vs Displacement Chart1](plot_image/mg_displacement.png)
+
+
 
 ### 3.2 Kijiji Data Analysis
 
