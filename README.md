@@ -3,7 +3,7 @@
 
 
 ##  Data Source
-- Scraped:   Kijiji.ca (GTA Data)
+- Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
 - Scraped:   Autolist.com (U.S. Data)
 - API:          http://www.carqueryapi.com/  (use the json files)
 - CSV:        Automobile_data.csv
@@ -14,7 +14,7 @@
 
 # 1. Extraction 
 
-## Extract all listing car information in GTA area from kijiji webite www.kijiji.ca
+## Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
 
 ### Key Car information is as below:
 
