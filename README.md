@@ -113,11 +113,6 @@
 
 ![MPG by make (USA data)](plot_image/auto_trader_make_MPG.png)
 
-- **[Displacement by make (USA data)]**
-
-![plot_image/auto_trader_make_displacement.png]
-
-
 
 
 # 4. Load
