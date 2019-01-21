@@ -82,15 +82,15 @@
 - [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
 ### 2.2 Data Tansform  - API Data
-- [CarQuery API Data Transformation - Json file was downloaded from CarQuery Website - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
- <br/>
- Key Car information extracted is as below:
-- Year
-- Make
-- Model
-- Transmission type
-- MPG
-- Displacement
+#### Key Car information extracted is as below:
+ - Year  
+ - Make  
+ - Model  
+ - Transmission type  
+ - MPG  
+ - Displacement  
+- [CarQuery API Data Transformation - Json file was downloaded from CarQuery Website - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)  
+
 
 ## 3. Data Analysis
 
