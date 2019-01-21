@@ -12,7 +12,7 @@
 - [4. Load](#4-Load)
   
 ---  
-##0. Data Source
+## 0. Data Source
 - Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
 - Scraped:   <https://www.autolist.com> (U.S. Data)
 - API:       [Car Query API](http://www.carqueryapi.com/) (use the [json files](data/carquery.json))
