@@ -1,4 +1,4 @@
-# **ETL Project Report  -  Scapping Car information ETL Project**
+﻿# **ETL Project Report  -  Scapping Car information ETL Project**
 ## Group 4: Luciana, Tim, Tao and Max
 
 
@@ -66,15 +66,21 @@
 
 ### 2.1 Data Tansform - Scraped Data
 - Clean the dirty data
-- Merge the api data to get the MPG and displacement information
+- Merge the csv/api data to get the MPG and displacement information
 
 - [Kijiji Data Transformation and Plot - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_Data_Trans_Plot_v2.ipynb)
-- [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb)
+- [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb) (https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_merging.ipynb)
 - [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
 ### 2.2 Data Tansform  - API Data
-- [CarQuery API Data Transformation - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
-
+- [CarQuery API Data Transformation - Json file was downloaded from CarQuery Website - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/CarQuery.ipynb)
+Key Car information extracted is as below:
+- Year
+- Make
+- Model
+- Transmission type
+- MPG
+- Displacement
 
 ## 3. Data Analysis
 
@@ -178,7 +184,7 @@ sell it.
  
  
  
-### 3.2 Autolist Data Analysis
+### 3.3 Autolist Data Analysis
 
 - **Price vs. Miles per Galon - cars made in 2015 (USA)**
 
