@@ -87,7 +87,6 @@ Key Car information extracted is as below:
 ### 3.1 Car Information Analysis
 - [Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
 
-- **Distribution of Mpg vs List Price Chart**
 
 #### **Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
@@ -162,25 +161,53 @@ fuel efficient.
 ### 3.2 Kijiji Data Analysis
 
 - **Total car sales on kijiji website in GTA area based on Model Year**<br/>
-From the chart, we know the most listing used cars' model year is around 2015. Partly because 
-after four years driving, the car is off lease and warranty is gone. So people is seeking to
-sell it. 
+```
+  From the chart, we know the most listing used cars' model year is around 2015. 
+  Partly because after four years driving, the car is off lease and warranty is gone.
+  So people is seeking to sell it. 
+```
  ![Total car sales on kijiji website in GTA area based on Model Year](plot_image/kijiji_car_count.png)
  
 - **Brand Numbers on kijiji website in GTA area**
+``` 
+    Top three used car listing all are Germany brand: Mercedes-Benz, Volkswagen 
+    and BMW
+```
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
  
 - **Average Mileages based on Brands on Kijiji website**
- ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
+```
+   Amerian used cars always have the higher mileages while the luxury used cars may 
+   have lower mileages.
+```
+ ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_brand_mean_mileage.png)
  
 - **Average Price based on Brands on Kijiji website**
+```
+   Luxury brand used cars still have high re-sell values
+ ```
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_brand_mean_price.png)
+ 
+- **Average List Price vs Average Mileage  Kernel Density Estimate**
+```
+   Most used cars' mileages will be around the 100,000km and the average price will 
+   be likely below $20,000.
+   ```
+ ![Average List Price vs Average Mileage  Kernel Density Estimate plot](plot_image/Dist_mean_pricemile.png)
  
 - **Average price of vehicles by vehicle type and brand**
  ![Average price of vehicles by vehicle type and brand](plot_image/kijiji_type_price.png)
  
 - **Average mileage of vehicles by vehicle type and brand**
  ![Average mileage of vehicles by vehicle type and brand](plot_image/kijiji_type_mileage.png)
+ 
+- **Mercedes-Benz Used Cars Data Analysis** 
+```
+  Model Year: major between 2007 to 2016
+  Price: mainly below $40,000
+  Mileage: mainly around 100K km
+```
+ ![Mercedes-Benz Used Cars Data Analysis](plot_image/kijiji_benz.png)
  
  
  
