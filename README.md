@@ -81,7 +81,6 @@
 ### 3.1 Car Information Analysis
 - [Car Data Analytics - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/car_query_charts_Tim.ipynb)
 
-- **Distribution of Mpg vs List Price Chart**
 
 #### **Question: Can a relationship be made between car prices and fuel econnomy?(part 1)**
 - By using Generate Kernel Density Estimate plot using Gaussian kernels
