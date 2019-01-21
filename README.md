@@ -168,7 +168,7 @@ sell it.
  ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
  
 - **Average Price based on Brands on Kijiji website**
- ![Average Price based on Brands on Kijiji website](plot_image/kijiji_average_price.png)
+ ![Average Price based on Brands on Kijiji website](plot_image/kijiji_brand_mean_price.png)
  
 - **Average price of vehicles by vehicle type and brand**
  ![Average price of vehicles by vehicle type and brand](plot_image/kijiji_type_price.png)
