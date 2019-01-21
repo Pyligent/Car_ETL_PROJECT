@@ -165,10 +165,13 @@ sell it.
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
  
 - **Average Mileages based on Brands on Kijiji website**
- ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_average_mileage.png)
+ ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_brand_mean_mileage.png)
  
 - **Average Price based on Brands on Kijiji website**
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_brand_mean_price.png)
+ 
+- **Average List Price vs Average Mileage  Kernel Density Estimate plot**
+ ![Average List Price vs Average Mileage  Kernel Density Estimate plot](plot_image/Dist_mean_pricemile.png)
  
 - **Average price of vehicles by vehicle type and brand**
  ![Average price of vehicles by vehicle type and brand](plot_image/kijiji_type_price.png)
