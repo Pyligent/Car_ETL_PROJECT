@@ -69,7 +69,8 @@
 - Merge the csv/api data to get the MPG and displacement information
 
 - [Kijiji Data Transformation and Plot - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_Data_Trans_Plot_v2.ipynb)
-- [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb) (https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_merging.ipynb)
+- [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_mpgdata_merge.ipynb)
+- [Kijiji Data merge with MPG/Displacement- Jupyter Notebook](https://github.com/Pyligent/Car_ETL_PROJECT/blob/master/Kijiji_merging.ipynb)
 - [Autolist Data merge with Fuel Economy Database - Jupyter Notebook](https://nbviewer.jupyter.org/github/Pyligent/Car_ETL_PROJECT/blob/master/Auto_trader_merge.ipynb)
 
 ### 2.2 Data Tansform  - API Data
