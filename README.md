@@ -201,6 +201,14 @@ fuel efficient.
 ```
  ![Mercedes-Benz Used Cars Data Analysis](plot_image/kijiji_benz.png)
  
+ - **Lising used car Color Analysis on kijiji websit**
+ ```
+   Black and White is the most populor used car color. The  second tier
+   is the Grey color and Silver
+   
+ ```
+ ![Color Analysis](plot_image/kijiji_color.png)
+ 
  
  
 ### 3.3 Autolist Data Analysis
