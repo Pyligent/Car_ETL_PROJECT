@@ -199,7 +199,7 @@ fuel efficient.
   Price: mainly below $40,000
   Mileage: mainly around 100K km
 ```
- ![Mercedes-Benz Used Cars Data Analysis](plot_image/kijiji_benz.png)
+ ![Mercedes-Benz Used Cars Data Analysis](plot_image/kijiji_benz1.png)
  
  
  - **Lising used car Color Analysis on kijiji websit**
