@@ -12,8 +12,6 @@
 - CSV:        <https://www.kaggle.com/toramky/automobile-dataset/kernels?sortBy=hotness&group=everyone&pageSize=20&datasetId=1291&language=Python>
 
 
-
-
 ## 1. Extraction 
 
 ### 1.1. Extract all listing car information in GTA area from [kijiji website](www.kijiji.ca)
