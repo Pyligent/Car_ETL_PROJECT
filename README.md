@@ -165,7 +165,7 @@ fuel efficient.
  
 - **Brand Numbers on kijiji website in GTA area**
 ``` 
-    Top three used car listing all are Germany brand: Mercedes-Benz, Volswagen 
+    Top three used car listing all are Germany brand: Mercedes-Benz, Volkswagen 
     and BMW
 ```
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
