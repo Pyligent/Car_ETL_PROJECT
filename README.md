@@ -1,7 +1,9 @@
-﻿# **ETL Project Report  -  Scapping Car information ETL Project**
+# **ETL Project Report  -  Scapping Car information ETL Project**
+## *Project Website:<https://pyligent.github.io/Car_ETL_PROJECT/>*
+
 ## Group 4: Luciana, Tim, Tao and Max
 
-#### *Project Website:<https://pyligent.github.io/Car_ETL_PROJECT/>*
+
 ##  Data Source
 - Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
 - Scraped:   <https://www.autolist.com> (U.S. Data)
