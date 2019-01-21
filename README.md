@@ -156,20 +156,23 @@ fuel efficient.
 ### 3.2 Kijiji Data Analysis
 
 - **Total car sales on kijiji website in GTA area based on Model Year**<br/>
-```From the chart, we know the most listing used cars' model year is around 2015. 
-Partly because after four years driving, the car is off lease and warranty is gone.
-So people is seeking to sell it. 
+```
+  From the chart, we know the most listing used cars' model year is around 2015. 
+  Partly because after four years driving, the car is off lease and warranty is gone.
+  So people is seeking to sell it. 
 ```
  ![Total car sales on kijiji website in GTA area based on Model Year](plot_image/kijiji_car_count.png)
  
 - **Brand Numbers on kijiji website in GTA area**
-``` Top three used car listing all are Germany brand: Mercedes-Benz, Volswagen 
+``` 
+    Top three used car listing all are Germany brand: Mercedes-Benz, Volswagen 
     and BMW
 ```
  ![Brand Numbers on kijiji website in GTA area](plot_image/kijiji_brand_count.png)
  
 - **Average Mileages based on Brands on Kijiji website**
-```Amerian used cars always have the higher mileages while the luxury used cars may 
+```
+   Amerian used cars always have the higher mileages while the luxury used cars may 
    have lower mileages.
 ```
  ![Average Mileages based on Brands on Kijiji website](plot_image/kijiji_brand_mean_mileage.png)
@@ -181,7 +184,8 @@ So people is seeking to sell it.
  ![Average Price based on Brands on Kijiji website](plot_image/kijiji_brand_mean_price.png)
  
 - **Average List Price vs Average Mileage  Kernel Density Estimate**
-```Most used cars' mileages will be around the 100,000km and the average price will 
+```
+   Most used cars' mileages will be around the 100,000km and the average price will 
    be likely below $20,000.
    ```
  ![Average List Price vs Average Mileage  Kernel Density Estimate plot](plot_image/Dist_mean_pricemile.png)
