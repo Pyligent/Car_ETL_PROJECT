@@ -5,14 +5,14 @@
 
 
 ## Table of Contents
-- [0. Data Source](#0-Data-Sourceh)
-- [1. Extraction](#1-Extraction)
-- [2. Transformation](#2-Transformation)
-- [3. Data Analysis](#3-Data-Analysis)
-- [4. Load](#4-Load)
++ [Data Source](#Data-Source)
++ [1. Extraction](#1-Extraction)
++ [2. Transformation](#2-Transformation)
++ [3. Data Analysis](#3-Data-Analysis)
++ [4. Load](#4-Load)
   
 ---  
-## 0. Data Source
+## Data Source
 - Scraped:   [Kijiji Car Website (GTA Data)](https://www.kijiji.ca/b-cars-vehicles/city-of-toronto/c27l1700273)
 - Scraped:   <https://www.autolist.com> (U.S. Data)
 - API:       [Car Query API](http://www.carqueryapi.com/) (use the [json files](data/carquery.json))
